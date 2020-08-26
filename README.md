@@ -4,4 +4,5 @@
 - It then checks if the resolved status is True in the SentinelOne console. 
 - Finally it closes the associated case in TheHive
 
-# Define config variables
+# To start
+- Define variables in config.yml
