@@ -1,0 +1,7 @@
+sentinelone:
+  apikey: ""
+  serverurl: "https://usea1-012.sentinelone.net/"
+
+hive:
+  apikey: ""
+  serverurl: "http://127.0.0.1:9000"
